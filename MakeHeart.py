@@ -20,7 +20,7 @@ t.forward(180)
 t.end_fill()
 
 t.hideturtle()
-turtle.done()
+turtle.done
 
 
 
